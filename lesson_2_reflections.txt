@@ -11,4 +11,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
    you can compare the staing area files with the head
    
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+   it would be usefull to have labels on each version or with new features
    
