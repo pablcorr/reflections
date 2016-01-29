@@ -15,3 +15,8 @@ What are some situations when branches would be helpful in keeping your history 
 
    it would be usefull to have labels on each version or with new features
    
+How do the diagrams help you visualize the branch structure?
+   
+   we can follow the different commits on each branch 
+   
+   
